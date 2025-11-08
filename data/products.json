@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Игровой ПК Premium",
+    "description": "Мощный ПК с RTX 4080, Intel i9, 32GB RAM, 360Hz монитор",
+    "price": 500,
+    "image": "https://qdrfhbtmslkijjdaihub.supabase.co/storage/v1/object/public/img/Premium-Gaming-PC.jpg.webp",
+    "category": "pc",
+    "specs": [
+      "RTX 4080",
+      "Intel i9-13900K",
+      "32GB DDR5",
+      "360Hz монитор"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Игровой ПК Standard",
+    "description": "Надежный ПК с RTX 4060, Intel i5, 16GB RAM, 144Hz монитор",
+    "price": 300,
+    "image": "https://qdrfhbtmslkijjdaihub.supabase.co/storage/v1/object/public/img/03-Premium.jpg",
+    "category": "pc",
+    "specs": [
+      "RTX 4060",
+      "Intel i5-13400",
+      "16GB DDR4",
+      "144Hz монитор"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "PlayStation 5 Zone",
+    "description": "Консольная зона с PS5 и библиотекой эксклюзивов",
+    "price": 250,
+    "image": "https://qdrfhbtmslkijjdaihub.supabase.co/storage/v1/object/public/img/def6ca4536a579f2c45f28a4443db2aa.jpg",
+    "category": "console",
+    "specs": [
+      "PS5",
+      "4K TV",
+      "Беспроводной геймпад",
+      "100+ игр"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Xbox Series X Zone",
+    "description": "Консольная зона с Xbox Series X и Game Pass",
+    "price": 250,
+    "image": "https://qdrfhbtmslkijjdaihub.supabase.co/storage/v1/object/public/img/microsoft-xbox-series-x-1692865837.jpg",
+    "category": "console",
+    "specs": [
+      "Xbox Series X",
+      "4K TV",
+      "Game Pass Ultimate",
+      "200+ игр"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "VR Meta Quest 3",
+    "description": "Полное погружение в виртуальную реальность",
+    "price": 400,
+    "image": "https://qdrfhbtmslkijjdaihub.supabase.co/storage/v1/object/public/img/ASSET_MMS_147777576.webp",
+    "category": "vr",
+    "specs": [
+      "Meta Quest 3",
+      "Беспроводной",
+      "120Hz",
+      "100+ VR-игр"
+    ]
+  }
+]
